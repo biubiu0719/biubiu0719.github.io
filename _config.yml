@@ -14,7 +14,14 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "天道酬勤"
 sidebar-avatar: /img/profile.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
+# Search
+search: true
 
+# Night mode
+nightMode: true
+
+# theme color
+theme-color: 'pink'
 
 # SNS settings
 RSS: false
