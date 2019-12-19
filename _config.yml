@@ -11,8 +11,8 @@ github_repo: "https://biubiu0719.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "天道酬勤"
-sidebar-avatar: /img/profile.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "哦豁"
+sidebar-avatar: /img/xbb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Search
 search: true
@@ -26,7 +26,7 @@ theme-color: 'pink'
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     chen-chen-73-36
+zhihu_username:     biubiu
 github_username:    biubiu0719
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -106,9 +106,10 @@ service-worker: true
 
 # Friends
 friends: [
+
      {
-        title: "SuMei's Blog",
-        href: "https://wsbfdzz.github.io/"
+        title: "bojie's Blog",
+        href: "https://437436999.github.io/"
      },
      {
         title: "Ender's Blog",
